@@ -16,6 +16,7 @@
 		B6B0E8932A8BB4D000B03F63 /* SwiftUIProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B0E8922A8BB4D000B03F63 /* SwiftUIProjectTests.swift */; };
 		B6B0E89D2A8BB4D000B03F63 /* SwiftUIProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B0E89C2A8BB4D000B03F63 /* SwiftUIProjectUITests.swift */; };
 		B6B0E89F2A8BB4D000B03F63 /* SwiftUIProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B0E89E2A8BB4D000B03F63 /* SwiftUIProjectUITestsLaunchTests.swift */; };
+		B6B0E8AC2A8BC03600B03F63 /* NewsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B0E8AB2A8BC03600B03F63 /* NewsListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		B6B0E8982A8BB4D000B03F63 /* SwiftUIProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6B0E89C2A8BB4D000B03F63 /* SwiftUIProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIProjectUITests.swift; sourceTree = "<group>"; };
 		B6B0E89E2A8BB4D000B03F63 /* SwiftUIProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B6B0E8AB2A8BC03600B03F63 /* NewsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			children = (
 				B6B0E87C2A8BB4CE00B03F63 /* SwiftUIProjectApp.swift */,
 				B6B0E87E2A8BB4CE00B03F63 /* ContentView.swift */,
+				B6B0E8AB2A8BC03600B03F63 /* NewsListView.swift */,
 				B6B0E8802A8BB4CF00B03F63 /* Assets.xcassets */,
 				B6B0E8852A8BB4D000B03F63 /* Persistence.swift */,
 				B6B0E8872A8BB4D000B03F63 /* SwiftUIProject.xcdatamodeld */,
@@ -265,6 +268,7 @@
 			files = (
 				B6B0E8862A8BB4D000B03F63 /* Persistence.swift in Sources */,
 				B6B0E8892A8BB4D000B03F63 /* SwiftUIProject.xcdatamodeld in Sources */,
+				B6B0E8AC2A8BC03600B03F63 /* NewsListView.swift in Sources */,
 				B6B0E87F2A8BB4CE00B03F63 /* ContentView.swift in Sources */,
 				B6B0E87D2A8BB4CE00B03F63 /* SwiftUIProjectApp.swift in Sources */,
 			);
